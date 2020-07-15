@@ -1,4 +1,4 @@
-[![Image](https://github.com/Great-Keith/Great-Keith/blob/master/orofile.jpg?raw=true)](https://github.com/Great-Keith)
+[![Image](https://github.com/Great-Keith/Great-Keith/blob/master/profile.jpg?raw=true)](https://github.com/Great-Keith)
 
 ### Hi there 👋
 
